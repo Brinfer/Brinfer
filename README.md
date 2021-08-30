@@ -14,11 +14,6 @@ Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz
     <img src="https://img.shields.io/static/v1?style=flat&message=C%2B%2B&logo=c%2B%2B&labelColor=00599C&color=00599C&logoColor=FFFFFF&label=%20"/>
     <img src="https://img.shields.io/static/v1?style=flat&message=C&logo=c&labelColor=A8B9CC&color=A8B9CC&logoColor=FFFFFF&label=%20"/>
     <img src="https://img.shields.io/static/v1?style=flat&message=Arduino&logo=arduino&labelColor=00979D&color=00979D&logoColor=E47128&label=%20"/>
-    <img src="https://img.shields.io/static/v1?style=flat&message=MySQL&logo=MySQL&labelColor=00758F&color=00758F&logoColor=F29111&label=%20"/>
-    <img src="https://img.shields.io/static/v1?style=flat&message=HTML&logo=html5&labelColor=E34F26&color=E34F26&logoColor=FFFFFF&label=%20"/>
-    <img src="https://img.shields.io/static/v1?style=flat&message=CSS&logo=css3&labelColor=1572B6&color=1572B6&logoColor=FFFFFF&label=%20"/>
-    <img src="https://img.shields.io/static/v1?style=flat&message=PHP&logo=php&labelColor=787CB5&color=787CB5&logoColor=B0B3D6&label=%20"/>
-    <img src="https://img.shields.io/static/v1?style=flat&message=JavaScript&logo=javascript&labelColor=F0DB4F&color=F0DB4F&logoColor=323330&label=%20"/>
     <img src="https://img.shields.io/static/v1?style=flat&message=Git&logo=git&labelColor=F05032&color=F05032&logoColor=FFFFFF&label=%20"/>
     <img src="https://img.shields.io/static/v1?style=flat&message=Windows&logo=windows&labelColor=0078D6&color=0078D6&logoColor=FFFFFF&label=%20"/>
     <img src="https://img.shields.io/static/v1?style=flat&message=Manjaro&logo=manjaro&labelColor=35BF5C&color=35BF5C&logoColor=FFFFFF&label=%20"/>
